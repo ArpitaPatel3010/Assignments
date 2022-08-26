@@ -1,0 +1,8 @@
+How can you pick a random item from a range?
+ How can you get a random number in python?
+ How will you set the starting value in generating random numbers?
+ How will you randomizes the items of a list in place?
+ Write a Python program to read a random line from a file.
+ Write a Python program to convert degree to radian
+ Write a Python program to calculate the area of a trapezoid
+ Write a Python program to calculate the area of a parallelogram

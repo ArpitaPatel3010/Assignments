@@ -1,0 +1,2 @@
+#What is lambda function in python? What we call a function which is incomplete version of a function?
+# ANS : n Python, a lambda function is a single-line function declared with no name, which can have any number of arguments, but it can only have one expression. Such a function is capable of behaving similarly to a regular function declared using the Python's def keyword
