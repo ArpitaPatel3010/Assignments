@@ -1,0 +1,2 @@
+#What is File function in python? What is keywords to create and write file.
+#ANS: This function returns a file object, also called a handle, as it is used to read or modify the file accordingly. We can specify the mode while opening a file. In mode, we specify whether we want to read r , write w or append a to the file. We can also specify if we want to open the file in text mode or binary mode.
