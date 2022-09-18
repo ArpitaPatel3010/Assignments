@@ -1,0 +1,19 @@
+How to check installed version of django
+
+ There are many ways ti check the installed version of dajngo
+ one of them is
+ 1.
+ when you run server - python manage.py runserver - output will be 
+ Watching for file changes with StatReloader
+ Performing system checks...
+ System check identified no issues (0 silenced).
+ September 18, 2022 - 23:08:20
+ Django version 4.1, using settings 'MyProject.settings'
+ Starting development server at http://127.0.0.1:8000/
+ Quit the server with CTRL-BREAK.
+
+ you can see - Django version 4.1
+
+2. stop server and run this command in your activated env
+python manage.py version 
+output will be - 4.1

@@ -1,0 +1,5 @@
+Why Django should be used for web-development? Explain how you can create a project in Django?
+
+Django helps the developers to make an application as fast as possible. Django helps in creating web apps, both cost-effective and efficient. Thus it becomes an ideal solution for programmers with deadlines. The MVT architecture of Django helps to work on different components parallelly, and we can integrate them much more efficiently.
+
+commands to create a dajngo project - djando-admin startproject project_name 

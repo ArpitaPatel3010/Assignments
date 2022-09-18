@@ -1,0 +1,5 @@
+Explain what does django-admin.py make messages command is used for?
+
+ANS - The Django web frameworks comes with a messaging system that allows us to store messages that we can check for on each page load. If there are some messages, we can display them to the user.
+you can import messages from django
+from django.contrib import messages
